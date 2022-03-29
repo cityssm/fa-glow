@@ -1,0 +1,22 @@
+{
+  "name": "@cityssm/fa-glow",
+  "version": "0.1.0",
+  "description": "The missing option to outline layered icons when using Font Awesome SVG+JS.",
+  "main": "fa-glow.min.css",
+  "scripts": {
+    "test": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cityssm/fa-glow.git"
+  },
+  "keywords": [
+    "font-awesome"
+  ],
+  "author": "The Corporation of the City of Sault Ste. Marie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cityssm/fa-glow/issues"
+  },
+  "homepage": "https://github.com/cityssm/fa-glow#readme"
+}

@@ -1,0 +1,13 @@
+$fa-glow-color: #fff !default;
+
+[data-fa-glow] {
+  stroke: var(--fa-glow-color, $fa-glow-color);
+  stroke-width: 80px;
+  paint-order: stroke fill;
+}
+
+@for $i from 1 through 10 {
+  [data-fa-glow='#{$i}'] {
+    stroke-width: ($i * 10px);
+  }
+}
