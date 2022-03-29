@@ -11,7 +11,9 @@
     "url": "git+https://github.com/cityssm/fa-glow.git"
   },
   "keywords": [
-    "font-awesome"
+    "font-awesome",
+    "stroke",
+    "svg"
   ],
   "author": "The Corporation of the City of Sault Ste. Marie",
   "license": "MIT",
