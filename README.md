@@ -1,5 +1,8 @@
 # fa-glow
 
+[![npm (scoped)](https://img.shields.io/npm/v/@cityssm/fa-glow)](https://www.npmjs.com/package/@cityssm/fa-glow)
+[![Codacy grade](https://img.shields.io/codacy/grade/57fa7ebdbec4464192459e94cea7dd07)](https://app.codacy.com/gh/cityssm/fa-glow/dashboard?branch=main)
+
 The missing option to outline layered icons when using
 [Font Awesome](https://fontawesome.com/) SVG+JS.
 
